@@ -1,0 +1,60 @@
+{
+  "a1cdbda0-63ab-4308-b4a8-c099fff17d05": {
+    "id": "a1cdbda0-63ab-4308-b4a8-c099fff17d05",
+    "username": "mahinay",
+    "email": "mahinay@gmail.com",
+    "password": "mahinay2001"
+  },
+  "282a6211-6473-4779-83a1-14d8732fd04e": {
+    "id": "282a6211-6473-4779-83a1-14d8732fd04e",
+    "name": "Wrist Watch",
+    "price": 500,
+    "quantity": 50,
+    "image": "image_url.png"
+  },
+  "98833fbb-fe94-4833-b524-15a05d83758b": {
+    "id": "98833fbb-fe94-4833-b524-15a05d83758b",
+    "name": "Wrist Watch",
+    "price": 500,
+    "quantity": 50,
+    "image": "image_url.png"
+  },
+  "6a130060-cd6b-4678-8513-245e913d19b9": {
+    "id": "6a130060-cd6b-4678-8513-245e913d19b9",
+    "name": "Wrist Watch",
+    "price": 500,
+    "quantity": 50,
+    "image": "image_url.png"
+  },
+  "3c3a197d-8ad2-45a3-a69f-6e120383fcaf": {
+    "id": "3c3a197d-8ad2-45a3-a69f-6e120383fcaf",
+    "name": "IPhone",
+    "price": 20000,
+    "quantity": 50,
+    "image": "image_url.png"
+  },
+  "a6fb0ff1-e450-4b51-8c9c-7aa145e6a3ae": {
+    "id": "a6fb0ff1-e450-4b51-8c9c-7aa145e6a3ae",
+    "name": "laptop",
+    "price": 41000,
+    "quantity": 10,
+    "image": "image_url.png"
+  },
+  "c18d1152-8fcd-4082-9f68-6f7e4c85dd86": {
+    "id": "c18d1152-8fcd-4082-9f68-6f7e4c85dd86",
+    "name": "laptop",
+    "price": 41000,
+    "quantity": 10,
+    "image": "image_url.png"
+  },
+  "61d530ab-0a48-4445-ad80-5dbd0d9cb440": {
+    "id": "61d530ab-0a48-4445-ad80-5dbd0d9cb440",
+    "name": "laptop",
+    "price": 50000,
+    "quantity": 20,
+    "image": "image_url.png"
+  },
+  "12c51f3b-b181-4f01-a012-fd8863157c60": {
+    "id": "12c51f3b-b181-4f01-a012-fd8863157c60"
+  }
+}
